@@ -1,5 +1,5 @@
 # TravelItineraryManager
-The code you provided defines a C# class named Itinerary within the Midterm namespace. It models an itinerary system for a travel agency where customers can book and change their travel plans. 
+The code you provided defines a C# class named Itinerary within the Midterm namespace. It models an itinerary system for a travel agency where customers can book and change their travel plans. level2_midterm 
 
 README Template for Travel Itinerary Management System
 Travel Itinerary Management System
