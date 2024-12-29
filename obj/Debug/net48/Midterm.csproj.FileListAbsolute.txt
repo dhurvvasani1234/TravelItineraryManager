@@ -1,0 +1,22 @@
+E:\_Algonquin\___22S\CST8253_22S\Week07\Midterm\Midterm\bin\Debug\net48\Midterm.exe.config
+E:\_Algonquin\___22S\CST8253_22S\Week07\Midterm\Midterm\bin\Debug\net48\Midterm.exe
+E:\_Algonquin\___22S\CST8253_22S\Week07\Midterm\Midterm\bin\Debug\net48\Midterm.pdb
+E:\_Algonquin\___22S\CST8253_22S\Week07\Midterm\Midterm\obj\Debug\net48\Midterm.csproj.AssemblyReference.cache
+E:\_Algonquin\___22S\CST8253_22S\Week07\Midterm\Midterm\obj\Debug\net48\Midterm.csproj.SuggestedBindingRedirects.cache
+E:\_Algonquin\___22S\CST8253_22S\Week07\Midterm\Midterm\obj\Debug\net48\Midterm.GeneratedMSBuildEditorConfig.editorconfig
+E:\_Algonquin\___22S\CST8253_22S\Week07\Midterm\Midterm\obj\Debug\net48\Midterm.AssemblyInfoInputs.cache
+E:\_Algonquin\___22S\CST8253_22S\Week07\Midterm\Midterm\obj\Debug\net48\Midterm.AssemblyInfo.cs
+E:\_Algonquin\___22S\CST8253_22S\Week07\Midterm\Midterm\obj\Debug\net48\Midterm.csproj.CoreCompileInputs.cache
+E:\_Algonquin\___22S\CST8253_22S\Week07\Midterm\Midterm\obj\Debug\net48\Midterm.exe
+E:\_Algonquin\___22S\CST8253_22S\Week07\Midterm\Midterm\obj\Debug\net48\Midterm.pdb
+D:\WD LEVEL-2\PROGRAMMING\Midterm code\Midterm\bin\Debug\net48\Midterm.exe.config
+D:\WD LEVEL-2\PROGRAMMING\Midterm code\Midterm\bin\Debug\net48\Midterm.exe
+D:\WD LEVEL-2\PROGRAMMING\Midterm code\Midterm\bin\Debug\net48\Midterm.pdb
+D:\WD LEVEL-2\PROGRAMMING\Midterm code\Midterm\obj\Debug\net48\Midterm.csproj.AssemblyReference.cache
+D:\WD LEVEL-2\PROGRAMMING\Midterm code\Midterm\obj\Debug\net48\Midterm.csproj.SuggestedBindingRedirects.cache
+D:\WD LEVEL-2\PROGRAMMING\Midterm code\Midterm\obj\Debug\net48\Midterm.GeneratedMSBuildEditorConfig.editorconfig
+D:\WD LEVEL-2\PROGRAMMING\Midterm code\Midterm\obj\Debug\net48\Midterm.AssemblyInfoInputs.cache
+D:\WD LEVEL-2\PROGRAMMING\Midterm code\Midterm\obj\Debug\net48\Midterm.AssemblyInfo.cs
+D:\WD LEVEL-2\PROGRAMMING\Midterm code\Midterm\obj\Debug\net48\Midterm.csproj.CoreCompileInputs.cache
+D:\WD LEVEL-2\PROGRAMMING\Midterm code\Midterm\obj\Debug\net48\Midterm.exe
+D:\WD LEVEL-2\PROGRAMMING\Midterm code\Midterm\obj\Debug\net48\Midterm.pdb
